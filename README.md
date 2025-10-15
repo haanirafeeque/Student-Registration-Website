@@ -4,7 +4,6 @@ A simple and elegant **Student Registration Form** built using only **HTML and C
 This project demonstrates the use of semantic HTML elements and modern CSS styling to design a clean, user-friendly registration form interface that works across all screen sizes.  
 
 🔗 **Live Demo:** [View Demo](https://haanirafeeque.github.io/Student-Registration-Website/)  
-*(Replace this link with your hosted version — for example, GitHub Pages, Netlify, or Vercel.)*  
 
 ---
 
@@ -19,8 +18,7 @@ The project focuses on creating a **responsive and accessible form** purely thro
 
 ## 🚀 Features
 
-✅ **Pure HTML & CSS** — No JavaScript or frameworks required.  
-✅ **Responsive Design** — Optimized to work on desktops, tablets, and mobile devices.  
+✅ **Pure HTML & CSS** — No JavaScript or frameworks required.   
 ✅ **Professional Layout** — Simple structure with clearly labeled fields.  
 ✅ **Accessible Design** — Uses semantic tags and readable font contrasts.  
 ✅ **Modern Styling** — Features padding, shadows, rounded borders, and hover effects.  
@@ -43,7 +41,7 @@ To view or modify this project on your local system:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/student-registration-form.git
+   git clone https://github.com/haanirafeeque/student-registration-form.git
    ```
 
 2. **Navigate into the project directory**
